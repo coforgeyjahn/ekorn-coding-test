@@ -1,6 +1,5 @@
 <script lang="ts">
   import { studentsData } from './lib/data';
-  import 'emoji-picker-element';
 
   type Student = {
     id: string;
